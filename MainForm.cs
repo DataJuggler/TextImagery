@@ -77,7 +77,7 @@ namespace TextImagery
             /// </summary>
             private void StartButton_Click(object sender, EventArgs e)
             {
-                // locals used for debugging
+                // Options - This was used for debugging, it could be taken out now that it works
                 bool drawNumberRectangle = true;
                 bool drawNumberText = true;
                 bool changeColorNumberText = true;
@@ -89,6 +89,7 @@ namespace TextImagery
                 string query = "";                
                 PixelInformation pixel = null;
                 PixelQuery pixelQuery = null;
+                string text = "";
 
                 // Get the path
                 string listFile = ListFileSelector.Text;
@@ -104,9 +105,6 @@ namespace TextImagery
 
                 // Get the source path
                 string source = FileSelector.Text;
-
-                // local
-                string text = "";
 
                 // Set the outputfolder
                 string outputFolder = OutputFolderSelector.Text;
