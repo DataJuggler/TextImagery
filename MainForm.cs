@@ -263,7 +263,7 @@ namespace TextImagery
                 if (TextHelper.Exists(projectPath))
                 {
                     // Set hte listFilePath
-                    string listFilePath = Path.Combine(projectPath, "Data", "List of 100.txt");
+                    string listFilePath = Path.Combine(projectPath, "Data", "List of 100 Sound Effects.txt");
 
                     // Set the text
                     ListFileSelector.Text = listFilePath;
