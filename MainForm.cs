@@ -214,7 +214,7 @@ namespace TextImagery
                             if (changeColorBottomText)
                             {
                                 // Run a second query to update the color to TextColor
-                                query = "Update" + newLine + "Set Color" + TextColor.Text + newLine + "Where" + newLine + "Total < " + (pixel.Total - 1) + newLine + "Y > " + margin;
+                                query = "Update" + newLine + "Set Color " + TextColor.Text + newLine + "Where" + newLine + "Total < " + (pixel.Total - 1) + newLine + "Y > " + margin;
 
                                 // Apply this query
                                 pixelQuery = copy.ApplyQuery(query, null);
