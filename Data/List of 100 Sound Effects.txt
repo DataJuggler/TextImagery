@@ -1,5 +1,6 @@
 Alien Spaceship Landing.wav
 Anvil being struck.wav
+Bacon Frying.wav
 Bee buzzing.wav
 Beer Bottle Being Opened.wav
 Bells tolling.wav
@@ -11,6 +12,7 @@ Bubbles popping.wav
 Camera zooming.wav
 Cannon Firing.wav
 Cardoor Opening and Closing.wav
+CarStarting.wav
 Cat purring.wav
 Chains rattling.wav
 Chainsaw cutting wood.wav
@@ -50,9 +52,10 @@ Ice Cracking.wav
 Ice cubes clinking in a glass.wav
 Jet taking off.wav
 Knife sharpening.wav
+Laughter.wav
+Loud Gunshot.wav
 Low drone of a distant engine.wav
 Machine Gun Fire.wav
-Marshmallows roasting.wav
 Metal gate clanging.wav
 Motorcycle engine revving.wav
 Ocean waves crashing.wav
@@ -73,7 +76,6 @@ Shutter clicking on a camera.wav
 Skateboard rolling.wav
 Slow Drip Water.wav
 Soda can opening.wav
-Sponge squeezing Sounds Like Whoopie Cushion.wav
 Sprinkler system.wav
 Stapler clicking.wav
 Steam engine.wav
@@ -90,8 +92,6 @@ Typewriter bell.wav
 Washing Hands.wav
 Water boiling.wav
 Water dripping in a cave.wav
-Waves hitting rocks.wav
-Whoosh Sound.wav
 Wind chimes jingling.wav
 Wind howling.wav
 Windshield wipers.wav
