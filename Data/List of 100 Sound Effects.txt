@@ -1,5 +1,6 @@
 Alien Spaceship Landing.wav
 Anvil being struck.wav
+Applause.wav
 Bacon Frying.wav
 Bee buzzing.wav
 Beer Bottle Being Opened.wav
@@ -12,7 +13,7 @@ Bubbles popping.wav
 Camera zooming.wav
 Cannon Firing.wav
 Cardoor Opening and Closing.wav
-Car Starting.wav
+CarStarting.wav
 Cat purring.wav
 Chains rattling.wav
 Chainsaw cutting wood.wav
@@ -70,7 +71,6 @@ Punching Bag or Someone.wav
 Rain Hitting Tin Roof.wav
 Raindrops on a window.wav
 Rustling leaves.wav
-Scuba diver's breathing.wav
 Shield impact Sounds Like Shoveling.wav
 Shutter clicking on a camera.wav
 Skateboard rolling.wav
