@@ -1,6 +1,7 @@
 Alien Spaceship Landing.wav
 Anvil being struck.wav
 Applause.wav
+Baby Crying.wav
 Bacon Frying.wav
 Bee buzzing.wav
 Beer Bottle Being Opened.wav
@@ -53,6 +54,7 @@ Ice Cracking.wav
 Ice cubes clinking in a glass.wav
 Jet taking off.wav
 Knife sharpening.wav
+Laser Gun.wav
 Laughter.wav
 Loud Gunshot.wav
 Low drone of a distant engine.wav
@@ -71,7 +73,6 @@ Punching Bag or Someone.wav
 Rain Hitting Tin Roof.wav
 Raindrops on a window.wav
 Rustling leaves.wav
-Shield impact Sounds Like Shoveling.wav
 Shutter clicking on a camera.wav
 Skateboard rolling.wav
 Slow Drip Water.wav
@@ -82,7 +83,6 @@ Steam engine.wav
 Subway doors closing.wav
 Sweeping With A Broom.wav
 Sword fight clangs.wav
-Sword unsheathing.wav
 Tennis ball bounce.wav
 Thunder rumbling.wav
 Toilet Flush.wav
