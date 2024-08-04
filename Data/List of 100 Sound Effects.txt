@@ -1,100 +1,100 @@
 Alien Spaceship Landing.wav
-Anvil being struck.wav
+Anvil Being Struck.wav
 Applause.wav
 Baby Crying.wav
 Bacon Frying.wav
-Bee buzzing.wav
+Bee Buzzing.wav
 Beer Bottle Being Opened.wav
-Bells tolling.wav
-Birds chirping at dawn.wav
-Boat creaking.wav
-Book dropping on the floor.wav
+Bells Tolling.wav
+Birds Chirping At Dawn.wav
+Boat Creaking.wav
+Book Falling.wav
 Breaking Glass.wav
-Bubbles popping.wav
-Camera zooming.wav
+Broom Sweeping.wav
+Bubbles Popping.wav
+Camera Zooming.wav
 Cannon Firing.wav
-Cardoor Opening and Closing.wav
-CarStarting.wav
-Cat purring.wav
-Chains rattling.wav
-Chainsaw cutting wood.wav
+Car Door Opening And Closing.wav
+Car Starting.wav
+Cat Purring.wav
+Chains Rattling.wav
+Chainsaw Cutting Wood.wav
+Cheering Audience.wav
 Church Choir.wav
-City traffic ambience.wav
-Clock chiming.wav
-Coins dropping.wav
-Computer keyboard typing.wav
-Crickets at night.wav
-Crowd murmur.wav
-Dentist drill.wav
-Dog barking.wav
+City Traffic Ambience.wav
+Clock Chiming.wav
+Coins Dropping.wav
+Computer Keyboard Typing.wav
+Crickets At Night.wav
+Crowd Murmur.wav
+Dentist Drill.wav
+Dog Barking.wav
 Dog Drinking Water.wav
 Door Bell.wav
-Door creaking open.wav
+Door Creaking Open.wav
 Door Knock.wav
-Earthquake rumble.wav
-Eating a Taco.wav
+Earthquake Rumble.wav
+Eating A Taco.wav
 Echoing Footsteps.wav
-Egg cracking.wav
-Electric hum.wav
+Egg Cracking.wav
+Electric Hum.wav
 Fire Crackling.wav
-Fire extinguisher spraying.wav
-Footsteps in the snow.wav
-Footsteps on a wooden floor.wav
-Footsteps on gravel.wav
+Fire Extinguisher Spraying.wav
+Footsteps In The Snow.wav
+Footsteps On Gravel.wav
+Footsteps On Wood Floor.wav
 Footsteps Slow.wav
-Fountain pen scratching paper.wav
+Fountain Pen Scratching Paper.wav
+Frogs Croaking.wav
 Garbage Disposal.wav
-Guitar tuning.wav
-Hatchet chopping wood.wav
-Heavy breathing.wav
-Heavy machinery operating.wav
-Helicopter blades whirling.wav
-Horse trotting.wav
+Guitar Tuning.wav
+Hatchet Chopping Wood.wav
+Heavy Breathing.wav
+Heavy Machinery Operating.wav
+Helicopter Blades Whirling.wav
+Horse Trotting.wav
 Ice Cracking.wav
-Ice cubes clinking in a glass.wav
-Jet taking off.wav
-Knife sharpening.wav
+Ice Cubes Clinking In A Glass.wav
+Jet Taking Off.wav
+Knife Sharpening.wav
 Laser Gun.wav
 Laughter.wav
 Loud Gunshot.wav
-Low drone of a distant engine.wav
 Machine Gun Fire.wav
-Metal gate clanging.wav
-Motorcycle engine revving.wav
-Ocean waves crashing.wav
-Old bicycle chain.wav
-Old Time Telephone ring.wav
-Outer space ambiance.wav
-Pages flipping in a book.wav
-Police Sirens.wav
-Printer running.wav
-Printing press running.wav
-Punching Bag or Someone.wav
+Metal Gate Clanging.wav
+Motorcycle Engine Revving.wav
+Ocean Waves Crashing.wav
+Old Bicycle.wav
+Old Time Telephone Ring.wav
+Outer Space Ambiance.wav
+Pages Flipping In A Book.wav
+Police Siren.wav
+Printer Running.wav
+Printing Press Running.wav
+Punching.wav
 Rain Hitting Tin Roof.wav
-Raindrops on a window.wav
-Rustling leaves.wav
-Shutter clicking on a camera.wav
-Skateboard rolling.wav
-Slow Drip Water.wav
-Soda can opening.wav
-Sprinkler system.wav
-Stapler clicking.wav
-Steam engine.wav
-Subway doors closing.wav
-Sweeping With A Broom.wav
-Sword fight clangs.wav
-Tennis ball bounce.wav
-Thunder rumbling.wav
+Raindrops On A Window.wav
+Rushing River.wav
+Rustling Leaves.wav
+Safe Cracker.wav
+Skateboard Rolling.wav
+Slow Dripping Water.wav
+Soda Can Opening.wav
+Steam Engine.wav
+Subway Doors.wav
+Sword Fight Clangs.wav
+Tennis Ball.wav
+Thunder Rumbling.wav
 Toilet Flush.wav
-Train passing by.wav
-Train whistle.wav
-Typewriter bell.wav
+Train Passing By.wav
+Train Whistle.wav
+Typewriter Bell.wav
+UFO In Distance.wav
 Washing Hands.wav
-Water boiling.wav
-Water dripping in a cave.wav
-Wind chimes jingling.wav
-Wind howling.wav
-Windshield wipers.wav
-Wine glasses clinking.wav
+Water Dripping.wav
+Wind Chimes.wav
+Wind Howling.wav
+Windshield Wipers.wav
+Wine Glasses Clinking.wav
 Woman Screaming.wav
-Zipper Unzipped.wav
+Zipper Zipping.wav
