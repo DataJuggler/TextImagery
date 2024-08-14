@@ -295,7 +295,7 @@ namespace TextImagery
                 StatusLabel.Visible = statusLabelVisible;
                 StatusLabel.Text = text;
                 Graph.Visible = graphVisible;
-                Graph.Value = graphValue;
+                Graph.CurrentValue = graphValue;
 
                 // Update the UI
                 Refresh();

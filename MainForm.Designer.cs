@@ -32,7 +32,6 @@
             StartButton = new DataJuggler.Win.Controls.Button();
             FileSelector = new DataJuggler.Win.Controls.LabelTextBoxBrowserControl();
             OutputFolderSelector = new DataJuggler.Win.Controls.LabelTextBoxBrowserControl();
-            Graph = new ProgressBar();
             StatusLabel = new Label();
             CountControl = new DataJuggler.Win.Controls.LabelTextBoxControl();
             ListFileSelector = new DataJuggler.Win.Controls.LabelTextBoxBrowserControl();
@@ -40,6 +39,7 @@
             TextColor = new DataJuggler.Win.Controls.LabelTextBoxControl();
             FontNameControl = new DataJuggler.Win.Controls.LabelTextBoxControl();
             FontSizeControl = new DataJuggler.Win.Controls.LabelTextBoxControl();
+            Graph = new DataJuggler.Win.Controls.ProgressBar();
             SuspendLayout();
             // 
             // StartButton
@@ -127,14 +127,6 @@
             OutputFolderSelector.TextBoxFont = new Font("Verdana", 12F);
             OutputFolderSelector.TextBoxTopMargin = 0;
             OutputFolderSelector.Theme = DataJuggler.Win.Controls.Enumerations.ThemeEnum.Dark;
-            // 
-            // Graph
-            // 
-            Graph.Location = new Point(25, 521);
-            Graph.Name = "Graph";
-            Graph.Size = new Size(708, 23);
-            Graph.TabIndex = 3;
-            Graph.Visible = false;
             // 
             // StatusLabel
             // 
@@ -326,11 +318,26 @@
             FontSizeControl.TextBoxTopMargin = 0;
             FontSizeControl.Theme = DataJuggler.Win.Controls.Enumerations.ThemeEnum.Dark;
             // 
+            // Graph
+            // 
+            Graph.BackColor = Color.DarkGray;
+            Graph.BackgroundColor = Color.DarkGray;
+            Graph.BorderStyle = BorderStyle.FixedSingle;
+            Graph.CurrentValue = 0;
+            Graph.ForeColor = Color.DodgerBlue;
+            Graph.Location = new Point(25, 521);
+            Graph.Maximum = 100;
+            Graph.Name = "Graph";
+            Graph.SetOverflowToMax = true;
+            Graph.Size = new Size(708, 22);
+            Graph.TabIndex = 8;
+            // 
             // MainForm
             // 
             AutoScaleMode = AutoScaleMode.None;
             BackColor = Color.Black;
             ClientSize = new Size(760, 570);
+            Controls.Add(Graph);
             Controls.Add(FontSizeControl);
             Controls.Add(FontNameControl);
             Controls.Add(TextColor);
@@ -338,11 +345,11 @@
             Controls.Add(ListFileSelector);
             Controls.Add(CountControl);
             Controls.Add(StatusLabel);
-            Controls.Add(Graph);
             Controls.Add(OutputFolderSelector);
             Controls.Add(FileSelector);
             Controls.Add(StartButton);
             Font = new Font("Verdana", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            ForeColor = Color.DodgerBlue;
             MdiChildrenMinimizedAnchorBottom = false;
             Name = "MainForm";
             StartPosition = FormStartPosition.CenterScreen;
@@ -355,7 +362,6 @@
         private DataJuggler.Win.Controls.Button StartButton;
         private DataJuggler.Win.Controls.LabelTextBoxBrowserControl FileSelector;
         private DataJuggler.Win.Controls.LabelTextBoxBrowserControl OutputFolderSelector;
-        private ProgressBar Graph;
         private Label StatusLabel;
         private DataJuggler.Win.Controls.LabelTextBoxControl CountControl;
         private DataJuggler.Win.Controls.LabelTextBoxBrowserControl ListFileSelector;
@@ -363,5 +369,6 @@
         private DataJuggler.Win.Controls.LabelTextBoxControl TextColor;
         private DataJuggler.Win.Controls.LabelTextBoxControl FontNameControl;
         private DataJuggler.Win.Controls.LabelTextBoxControl FontSizeControl;
+        private DataJuggler.Win.Controls.ProgressBar Graph;
     }
 }
