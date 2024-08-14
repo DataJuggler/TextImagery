@@ -329,7 +329,7 @@
             Graph.Maximum = 100;
             Graph.Name = "Graph";
             Graph.SetOverflowToMax = true;
-            Graph.Size = new Size(708, 22);
+            Graph.Size = new Size(705, 22);
             Graph.TabIndex = 8;
             // 
             // MainForm
