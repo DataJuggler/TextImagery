@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="DataJuggler.PixelDatabase" Version="8.2.15" />
-    <PackageReference Include="DataJuggler.Win.Controls" Version="8.1.2" />
+    <PackageReference Include="DataJuggler.Win.Controls" Version="8.1.5" />
   </ItemGroup>
 
 </Project>

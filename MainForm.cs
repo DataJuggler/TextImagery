@@ -77,6 +77,13 @@ namespace TextImagery
             /// </summary>
             private void StartButton_Click(object sender, EventArgs e)
             {
+                // Remove Focus
+                HiddenButton.Focus();
+
+                // Update the UI
+                Refresh();
+                Application.DoEvents();
+
                 // Options - This was used for debugging, it could be taken out now that it works
                 bool drawNumberRectangle = true;
                 bool drawNumberText = true;
@@ -295,7 +302,7 @@ namespace TextImagery
                 StatusLabel.Visible = statusLabelVisible;
                 StatusLabel.Text = text;
                 Graph.Visible = graphVisible;
-                Graph.CurrentValue = graphValue;
+                Graph.Value = graphValue;
 
                 // Update the UI
                 Refresh();

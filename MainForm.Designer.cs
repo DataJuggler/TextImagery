@@ -40,6 +40,7 @@
             FontNameControl = new DataJuggler.Win.Controls.LabelTextBoxControl();
             FontSizeControl = new DataJuggler.Win.Controls.LabelTextBoxControl();
             Graph = new DataJuggler.Win.Controls.ProgressBar();
+            HiddenButton = new DataJuggler.Win.Controls.Button();
             SuspendLayout();
             // 
             // StartButton
@@ -320,23 +321,37 @@
             // 
             // Graph
             // 
-            Graph.BackColor = Color.DarkGray;
-            Graph.BackgroundColor = Color.DarkGray;
+            Graph.BackColor = Color.DimGray;
+            Graph.BackgroundColor = Color.DimGray;
             Graph.BorderStyle = BorderStyle.FixedSingle;
-            Graph.CurrentValue = 0;
             Graph.ForeColor = Color.DodgerBlue;
-            Graph.Location = new Point(25, 521);
+            Graph.Location = new Point(27, 525);
             Graph.Maximum = 100;
             Graph.Name = "Graph";
             Graph.SetOverflowToMax = true;
             Graph.Size = new Size(705, 22);
-            Graph.TabIndex = 8;
+            Graph.TabIndex = 0;
+            Graph.Value = 0;
+            // 
+            // HiddenButton
+            // 
+            HiddenButton.BackColor = Color.Transparent;
+            HiddenButton.ButtonText = "Hidden";
+            HiddenButton.FlatStyle = FlatStyle.Flat;
+            HiddenButton.ForeColor = Color.LemonChiffon;
+            HiddenButton.Location = new Point(-497, 441);
+            HiddenButton.Margin = new Padding(4);
+            HiddenButton.Name = "HiddenButton";
+            HiddenButton.Size = new Size(114, 40);
+            HiddenButton.TabIndex = 8;
+            HiddenButton.Theme = DataJuggler.Win.Controls.Enumerations.ThemeEnum.Dark;
             // 
             // MainForm
             // 
             AutoScaleMode = AutoScaleMode.None;
             BackColor = Color.Black;
             ClientSize = new Size(760, 570);
+            Controls.Add(HiddenButton);
             Controls.Add(Graph);
             Controls.Add(FontSizeControl);
             Controls.Add(FontNameControl);
@@ -349,7 +364,7 @@
             Controls.Add(FileSelector);
             Controls.Add(StartButton);
             Font = new Font("Verdana", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            ForeColor = Color.DodgerBlue;
+            ForeColor = Color.Black;
             MdiChildrenMinimizedAnchorBottom = false;
             Name = "MainForm";
             StartPosition = FormStartPosition.CenterScreen;
@@ -370,5 +385,6 @@
         private DataJuggler.Win.Controls.LabelTextBoxControl FontNameControl;
         private DataJuggler.Win.Controls.LabelTextBoxControl FontSizeControl;
         private DataJuggler.Win.Controls.ProgressBar Graph;
+        private DataJuggler.Win.Controls.Button HiddenButton;
     }
 }
